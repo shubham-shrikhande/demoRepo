@@ -6,4 +6,8 @@ private String fathername;
 
 
 
+public void m1(){
+  int i=0;
+}
+
 }
