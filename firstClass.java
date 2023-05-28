@@ -3,7 +3,7 @@ class Demo{
  private String name;
 private String sirname;
 private String fathername;
-
+private String school;
 changes in experiment 
 
 public void m1(){
